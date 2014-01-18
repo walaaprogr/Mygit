@@ -2,9 +2,6 @@
 
 class Welcome extends CI_Controller {
 
-//walaa
-
-
 	/**
 	 * Index Page for this controller.
 	 *
